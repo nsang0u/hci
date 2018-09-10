@@ -1,5 +1,4 @@
 ---
-layout: page
 Title: Good Design at Williams College
 Subtitle: The Wii Remote
 ---
