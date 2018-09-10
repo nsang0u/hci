@@ -4,7 +4,6 @@ Title: Good Design at Williams College
 Subtitle: HCI Assignment 1
 ---
 
-# Good Design
 ## The Nintendo Wii Remote
 
 For my example of 'good design,' I picked this somewhat cute piece of hardware: the Wii Remote. I imagine that many of us in this course are familiar with the 'wiimote,' as are many kids who've grown up over the past ten years. The user population of the wii remote, and naturally the Nintendo Wii, is largely comprised of children, teenagers and recent adults suffering from nostalgia, like myself. 
