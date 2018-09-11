@@ -1,8 +1,9 @@
 ---
-Title: Good Design at Williams College
-Subtitle: The Wii Remote
+layout: page
+title: Good Design at Williams College
+subtitle: The Nintendo wii Remote
 ---
-# The Nintendo Wii Remote
+
 
 ![Nintendo wii Remote](/img/IMG_2460.JPG)
 
