@@ -3,7 +3,7 @@ layout: page
 title: Bad Design at Williams College
 subtitle: The Doors of Greylock D
 ---
-# The Doors of Greylock D
+
 
 ![Enter at your own risk](img/IMG_2458.JPG)
 
