@@ -5,6 +5,8 @@ subtitle: The Doors of Greylock D
 ---
 # The Doors of Greylock D
 
+![Enter at your own risk](/img/IMG_2458.JPG)
+
 Choosing an example of bad design on Williams campus was easy for me, as a particularly salient example came to mind instantly. I'm in a cappella group here on campus called *Purple Rain*. Last fall, we spent 5 hours every week rehearsing in a room called Greylock D. Each rehearsal, without fail, multiple people would spend too much time at the door, trying to pull it open rather than push it, as its designers intended. After remembering how to open it, the unlucky victim would walk through the now-compliant door with an angry grunt or a few choice words under (or over) the breath. The doors of Greylock D remain a Purple Rain inside joke to this day.  
 
 The problem with this door is clearly its design. Walking up to the door, the user sees a handle that suggests twist-and-pull mechanism. However, they soon find that the door is supposed to be pushed, in contradiction to the usual behavior of doors with this kind of handle. Perhaps the door-maker realized this design miscommunication, and to patch it up, installed the metal push piece above the handle, hoping this would indicate the intended use. Clearly, that didn't work, because the door assailed far too many unsuspecting first-years as they nervously tried to walk into auditions last fall.  
