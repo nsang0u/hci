@@ -17,9 +17,9 @@ Most museumgoers, especially those not visiting with a class or group, don’t h
 
 ### Analysis
 There is immense value in providing the community engagement with art that is so often lacking in the museum experiences of people not visiting WCMA with a class. Social appreciation of art is crucial to its understanding and utility. In an article for Davos 2016, World Economic Forum Crystal Award winner Olaf Eliasson writes,
- “...engaging with a good work of art can connect you to your senses, body, and mind. It can make the world felt. And this felt feeling may spur thinking, engagement, and even action… Engaging with art is not simply a solitary event. The arts and culture represent one of the few areas in our society where people can come together to share an experience even if they see the world in radically different ways. The important thing is not that we agree about the experience that we share, but that we consider it worthwhile sharing an experience at all.” 
-Source: https://www.weforum.org/agenda/2016/01/why-art-has-the-power-to-change-the-world/
+> “...engaging with a good work of art can connect you to your senses, body, and mind. It can make the world felt. And this felt feeling may spur thinking, engagement, and even action… Engaging with art is not simply a solitary event. The arts and culture represent one of the few areas in our society where people can come together to share an experience even if they see the world in radically different ways. The important thing is not that we agree about the experience that we share, but that we consider it worthwhile sharing an experience at all.” 
+>Source: https://www.weforum.org/agenda/2016/01/why-art-has-the-power-to-change-the-world/
 
-![Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg] (/img/talkingAbtArt.jpg)
+![Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg](/img/talkingAbtArt.jpg)
 
 Thus we can understand the importance of a social aspect of art engagement for WCMA museumgoers. Such an experience allows for exciting sharing of thoughts and ideas. It should be noted that isolated, solitary pondering is also important to the growth of a relationship with and understanding of an artwork. As such, it may be important to retain this aspect of experience in designing a solution to this problem.
