@@ -12,6 +12,7 @@ People enjoy shared experience and the opportunity to express their candid opini
 Most museumgoers, especially those not visiting with a class or group, don’t have such an opportunity to share casual opinions about art with peers. Walking around the museum on, say, a Tuesday afternoon, you’ll likely find museumgoers walking slowly around each exhibition space. Whether students, faculty or adults, most patrons seem to adopt a sort of museum etiquette in which they pace from piece to piece, perhaps with their hands clasped behind their backs and a pensive expression on their face. They will mutter quiet comments to their companions as they go, often making a remark about an artwork.
 
 <p align="center">
+ <img src="https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg">
 ![Source: https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg](img/lookingAtArt.jpg)
 </p>
 
