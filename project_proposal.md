@@ -23,6 +23,7 @@ There is immense value in providing the community engagement with art that is so
 >Source: https://www.weforum.org/agenda/2016/01/why-art-has-the-power-to-change-the-world/
 
 ![Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg](/img/talkingAbtArt.jpg)
+<sup>Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg</sup>
 
 Thus we can understand the need for a casual, real-time social aspect of art engagement for WCMA museumgoers. Such an experience allows for exciting sharing of thoughts and ideas. Currently, museum visitors each experience the exhibitions in their own respective bubbles. Merging these bubbles would greatly increase both the emotional engagement of visitors and the impact and reach of the artwork to its viewers. It should be noted that isolated, solitary pondering is also important to the growth of a relationship with and understanding of an artwork. Thus, it may be important to retain this aspect of experience in designing a solution to this problem. 
 
