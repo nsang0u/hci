@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Individual Design Problem Proposal
-subtitle: : Art as a Social Experience
+subtitle: Art as a Social Experience
 ---
+
 
 *The following is a proposal centered around a theme of visitor experience at the Williams College Museum of Art.*
  
