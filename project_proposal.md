@@ -13,7 +13,6 @@ Most museumgoers, especially those not visiting with a class or group, don’t h
 
 <p align="center">
  <img src="https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg">
-![Source: https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg](img/lookingAtArt.jpg)
 </p>
 
 <sup>Source: https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg</sup>
@@ -28,8 +27,9 @@ There is immense value in providing the community engagement with art that is so
 >Source: https://www.weforum.org/agenda/2016/01/why-art-has-the-power-to-change-the-world/
 
 <p align="center">
-![Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg](/img/talkingAbtArt.jpg)
+ <img src="http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg">
 </p>
+
 <sup>Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg</sup>
 
 Thus we can understand the need for a casual, real-time social aspect of art engagement for WCMA museumgoers. Such an experience allows for exciting sharing of thoughts and ideas. Currently, museum visitors each experience the exhibitions in their own respective bubbles. Merging these bubbles would greatly increase both the emotional engagement of visitors and the impact and reach of the artwork to its viewers. It should be noted that isolated, solitary pondering is also important to the growth of a relationship with and understanding of an artwork. Thus, it may be important to retain this aspect of experience in designing a solution to this problem. 
