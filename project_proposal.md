@@ -13,7 +13,7 @@ Most museumgoers, especially those not visiting with a class or group, don’t h
 
 ![Source: https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg](img/lookingAtArt.jpg)
 
-*The problem is, this monotonous behavior in museums is not conducive to casual conversation about art with the other museumgoers. Thus, everyones comments remain private to their own party, and the community action of sharing opinions and reactions about art with peers in the moment is lacking. *
+*The problem is, this monotonous behavior in museums is not conducive to casual conversation about art with the other museumgoers. Thus, everyones comments remain private to their own party, and the community action of sharing opinions and reactions about art with peers in the moment is lacking.*
 
 ### Analysis
 There is immense value in providing the community engagement with art that is so often lacking in the museum experiences of people not visiting WCMA with a class. Social appreciation of art is crucial to its understanding and utility. In an article for Davos 2016, World Economic Forum Crystal Award winner Olaf Eliasson writes,
