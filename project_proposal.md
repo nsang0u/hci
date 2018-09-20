@@ -13,7 +13,7 @@ Most museumgoers, especially those not visiting with a class or group, don’t h
 
 ![Source: https://wearethemuseumcollective.files.wordpress.com/2015/02/tumblr_mxg7br9hlt1qf96u2o1_1280.jpg](img/lookingAtArt.jpg)
 
-*The problem is, this monotonous behavior in museums is not conducive to casual conversation about art with the other museumgoers. Thus, everyones comments remain private to their own party, and the community action of sharing opinions and reactions about art with peers in the moment is lacking.*
+*The problem is, this monotonous behavior in museums is not conducive to candid conversation about art with the other museumgoers. Thus, everyones comments remain private to their own party, and the community action of sharing opinions and reactions about art with peers in the moment is left lacking. *
 
 ### Analysis
 There is immense value in providing the community engagement with art that is so often lacking in the museum experiences of people not visiting WCMA with a class. Social appreciation of art is crucial to its understanding and utility. In an article for Davos 2016, World Economic Forum Crystal Award winner Olaf Eliasson writes,
@@ -22,4 +22,5 @@ There is immense value in providing the community engagement with art that is so
 
 ![Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg](/img/talkingAbtArt.jpg)
 
-Thus we can understand the importance of a social aspect of art engagement for WCMA museumgoers. Such an experience allows for exciting sharing of thoughts and ideas. It should be noted that isolated, solitary pondering is also important to the growth of a relationship with and understanding of an artwork. As such, it may be important to retain this aspect of experience in designing a solution to this problem.
+Thus we can understand the need for a casual, real-time social aspect of art engagement for WCMA museumgoers. Such an experience allows for exciting sharing of thoughts and ideas. Currently, museum visitors each experience the exhibitions in their own respective bubbles. Merging these bubbles would greatly increase both the emotional engagement of visitors and the impact and reach of the artwork to its viewers. It should be noted that isolated, solitary pondering is also important to the growth of a relationship with and understanding of an artwork. Thus, it may be important to retain this aspect of experience in designing a solution to this problem. 
+
