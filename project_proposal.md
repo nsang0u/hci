@@ -27,6 +27,7 @@ There is immense value in providing the community engagement with art that is so
 <p align="center">
  <img src="http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg">
 
+ 
  <sup>Source: http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg</sup>
  
 </p>
