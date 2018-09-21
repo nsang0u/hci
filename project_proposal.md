@@ -21,7 +21,6 @@ There is immense value in providing the community engagement with art that is so
 > “...engaging with a good work of art can connect you to your senses, body, and mind. It can make the world felt. And this felt feeling may spur thinking, engagement, and even action… Engaging with art is not simply a solitary event. The arts and culture represent one of the few areas in our society where people can come together to share an experience even if they see the world in radically different ways. The important thing is not that we agree about the experience that we share, but that we consider it worthwhile sharing an experience at all.” 
 
 
->Source: https://www.weforum.org/agenda/2016/01/why-art-has-the-power-to-change-the-world/
 
 <p align="center">
  <img src="http://dodielogue.com/wp-content/uploads/2013/09/opening-4.jpg">
