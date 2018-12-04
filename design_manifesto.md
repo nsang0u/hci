@@ -32,7 +32,8 @@ In future design situations, I will certainly remember to get outside of my comf
 ## Start Early with Accessibility
 Accessibility is one of the areas from which I think the most can be gleaned from reflecting on this semester’s project. Before the class began to focus on matters of accessibility, our group had not put thought into how we could make our design more accessible. It is important to note that our design was initially very reliant on color, required dexterous precision, and also forced direct interaction with the screen to access information, both things that the UK Home Office advises against in its design accessibility guidelines. Once we were aware of these guidelines and others in our readings, we were able to tack-on changes to our design that made it more accessible, such as providing large, non-color-reliant visualizations in our interface so as to make data accessible to individuals with visual impairments. 
 
-![Imgur](https://i.imgur.com/5wSX7VN.jpg)
+
+![Imgur](https://i.imgur.com/YMGF1Er.jpg)
 
 These changes did not, however, address the aforementioned underlying accessibility issues with our design. We were at a point in our process at which modifying the interaction forms fundamentally necessitated by our design was not feasible given the amount of time we had left. In a new scenario, I will be sure to hold accessibility as a core value when beginning to ideate, so as to avoid a situation in which the inherent nature of our design excludes certain populations.
 
