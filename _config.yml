@@ -46,15 +46,15 @@ avatar: "/img/IMG_3679CPY.JPG"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "	#f9b18a"
+navbar-col: "#b1faf8"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "	#60516d"
-footer-text-col: "#3e3c15"
-footer-link-col: "#a28ad7"
+footer-col: "	#7e95bd "
+footer-text-col: "#9adadf"
+footer-link-col: "	#90eab0"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -75,14 +75,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-  email: "someone@example.com"
-  facebook: Noah Nsangou
-  github: nsang0u
-  
+  email: "nnn1@williams.edu"
+  linkedin: Noah Nsangou
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
