@@ -17,21 +17,22 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Noah's HCI Website
+title: Noah Nsangou
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Human Computer Interaction at Williams College
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Good Design: "good_design"
-  Bad Design: "bad_design"
-  Project Proposal: "project_proposal"
-  Research Paper: "research_paper"
-  Design Manifesto: "design_manifesto"
+  Assignments:
+  - Good Design: "good_design"
+  - Bad Design: "bad_design"
+  - Project Proposal: "project_proposal"
+  - Research Paper: "research_paper"
+  - Design Manifesto: "design_manifesto"
   Project Website: "https://nsang0u.github.io/amarteurs/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
