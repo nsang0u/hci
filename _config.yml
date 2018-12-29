@@ -27,6 +27,8 @@ description: Human Computer Interaction at Williams College
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Course Projects:
+  - HCI - Amarteurs: "hci-amarteurs"
   Assignments:
   - Good Design: "good_design"
   - Bad Design: "bad_design"
