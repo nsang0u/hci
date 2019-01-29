@@ -4,7 +4,7 @@ title: HCI - Amarteurs
 subtitle: A Product Design Process for CS376: Human Computer Interaction
 ---
 
-<p style="text-align: center;"> 
+<p align="center"> 
 
 In Fall 2018, I took a design-focused course on HCI (Human-Computer Interaction), in which I worked with a team to apply UX/UI design principles to develop a product proposal for the Williams College Museum of Art. 
 
