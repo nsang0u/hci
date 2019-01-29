@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HCI - Amarteurs
+title: HCI: Amarteurs
 subtitle: A Product Design Process for CS376: Human Computer Interaction
 ---
 
