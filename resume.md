@@ -6,4 +6,4 @@ title: Resume / CV
 
 
 
-## [Download](/data/Noah_Nsangou_CV.pdf)
+## [Download](/data/Nsangou Resume S20.1 (LinkedIn))
