@@ -27,10 +27,10 @@ description: My Personal Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects:
-  - HCI - Amarteurs: "hci-amarteurs"
-  - Tweet Mapping: "tweet-mapping"
-  - EphHub - Coming Soon: "ephhub"
+  #Projects:
+  #- HCI - Amarteurs: "hci-amarteurs"
+  #- Tweet Mapping: "tweet-mapping"
+  #- EphHub - Coming Soon: "ephhub"
   Resume/CV: "resume"
   
 
