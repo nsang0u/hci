@@ -6,4 +6,4 @@ title: Resume / CV
 
 
 
-## [Download](/data/Nsangou_Resume)
+## [Download](/data/Nsangou_Resume.pdf)
