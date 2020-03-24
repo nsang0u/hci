@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Hello!
 ---
 
-My name is Noah Nsangou! I'm a Junior at Williams College studying Computer Science. 
+I'm a motivated, fast-learning and flexible thinker studying at Williams College. I am focused in Computer Science, Data Science and health, with diverse interests spanning software engineering, computational health informatics, and user-centered design. I love to solve problems.
