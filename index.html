@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Noah Nsangou
-subtitle: A recent graduate of Williams College with experience in health informatics and biostatistics leveraging knowledge across computer and data science to build new solutions to challenging problems.
+subtitle: Hi! I'm a recent graduate of Williams College with experience in health informatics and biostatistics. I leverage knowledge across computer and data science to build new solutions to challenging problems.
 use-site-title: true
 ---
 
@@ -15,12 +15,12 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+	  <h3 class="post-title">{{ post.title }}</h3>
 
 	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
+	  <h4 class="post-subtitle">
 	    {{ post.subtitle }}
-	  </h3>
+	  </h4>
 	  {% endif %}
     </a>
 
